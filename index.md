@@ -1,3 +1,12 @@
-   # NW-AIRQUEST Charters
-   - [NRMC](Charters/NRMC%20Charter%202020-Final-20200824_21.NPTSigned.pdf)
-   - [NW-AIRQUEST](Charters/NWAIRQUEST_Charter_Final_20200519_18.NPTSigned.pdf)
+# NW-AIRQUEST Charters
+- [NRMC](Charters/NRMC%20Charter%202020-Final-20200824_21.NPTSigned.pdf)
+- [NW-AIRQUEST](Charters/NWAIRQUEST_Charter_Final_20200519_18.NPTSigned.pdf)
+
+## Meetings
+
+### October 2026
+
+- [Agenda](Meetings/October_2026/NW_AIRQUEST_Agenda_Oct30.pdf)
+- [AIRPACT6 Point Source Updates (ECY, F. Thorpe)](Meetings/October_2026/Thorpe_PointSourceUpdates_AIRPACT6.pdf)
+- [Air Quality Forecast Dashboard (ODEQ, N. Khosravi)](Meetings/October_2026/Khosravi_ODEQ_Forecast_Dahsboard.pdf)
+- [2026 Wildfire Smoke Review (DNR, M. Friedman)](Meetings/October_2026/Friedman_DNR_2026_WF_Season.pdf)
