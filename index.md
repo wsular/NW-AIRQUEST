@@ -3,8 +3,7 @@
 - [NW-AIRQUEST](Charters/NWAIRQUEST_Charter_Final_20200519_18.NPTSigned.pdf)
 
 ## Product Links
-- [Background Concentrations 2014-2017](https://idahodeq.maps.arcgis.com/apps/instant/nearby/index.html?appid=23ab0161b30545b0a28774ff4686381f)
-- [Background Concentrations 2022-2024](https://gisportal-deq.idaho.gov/portal/apps/experiencebuilder/experience/?id=43fc68cae284497a99419c2d58da9a2f&page=Page&views=Map-Layers)
+- [Background Concentration Lookup Tool](https://gisportal-deq.idaho.gov/portal/home/item.html?id=43fc68cae284497a99419c2d58da9a2f)
 - [WSU AIRPACT-6](https://nw-air-forecast.pages.dev/)
 - [UW WRF](https://a.atmos.washington.edu/mm5rt/)
 
