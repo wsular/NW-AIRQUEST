@@ -1,8 +1,8 @@
 # NW-AIRQUEST
 
-Meeting materials, workplans, and charters for NW-AIRQUEST.
+Meeting materials, workplans, product links, and charters for NW-AIRQUEST.
 
-## 👉 [View the meeting archive and documents](https://wsular.github.io/NW-AIRQUEST/)
+## 👉 [View the NW-AIRQUEST materials as a webpage](https://wsular.github.io/NW-AIRQUEST/)
 
 **https://wsular.github.io/NW-AIRQUEST/**
 
