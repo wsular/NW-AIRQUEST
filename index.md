@@ -1,6 +1,10 @@
-## NW-AIRQUEST Charters
+## NW-AIRQUEST / NRMC Charters
 - [NRMC](Charters/NRMC%20Charter%202020-Final-20200824_21.NPTSigned.pdf)
 - [NW-AIRQUEST](Charters/NWAIRQUEST_Charter_Final_20200519_18.NPTSigned.pdf)
+
+## NW-AIRQUEST / NRMC Work Plans
+- [UW Workplan](Workplans/UW_Work_Plan_SFY2027.pdf)
+- [WSU Workplan](Workplans/WSU_Work_Plan_SFY2027.pdf)
 
 ## Product Links
 - [Background Concentration Lookup Tool](https://gisportal-deq.idaho.gov/portal/home/item.html?id=43fc68cae284497a99419c2d58da9a2f)
