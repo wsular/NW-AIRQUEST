@@ -15,10 +15,10 @@
 
 ### October 2026
 
-- [Agenda](Meetings/October_2026/NW_AIRQUEST_Agenda_Oct30.pdf)
+[Agenda](Meetings/October_2026/NW_AIRQUEST_Agenda_Oct30.pdf)
+#### Presentations
 - [AIRPACT News and Updates (WSU, J. Meng)](Meetings/October_2026/Meng_WSU-FY27_20261030.pdf)
 - [AIRPACT6 Point Source Updates (ECY, F. Thorpe)](Meetings/October_2026/Thorpe_PointSourceUpdates_AIRPACT6.pdf)
 - [Air Quality Forecast Dashboard (ODEQ, N. Khosravi)](Meetings/October_2026/Khosravi_ODEQ_Forecast_Dahsboard.pdf)
 - [2026 Wildfire Smoke Review (DNR, M. Friedman)](Meetings/October_2026/Friedman_DNR_2026_WF_Season.pdf)
 - [AIRPACT-6 Wildfire Evaluation (WSU, A. Zarrah)](Meetings/October_2026/Zarrah_20261030_AP_meeting_oct_2026_Zarrah.pdf)
-- 
